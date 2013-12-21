@@ -1,4 +1,4 @@
-# [My personal blog](http://carlosbecker.com)
+# [My personal blog](http://furikuri.github.io)
 
 Deployable on Github Pages
 
