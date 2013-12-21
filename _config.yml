@@ -6,7 +6,7 @@ permalink: /posts/:title
 title : FuriKuri's Blog
 production_url : https://furikuri.github.io
 description: "My Blog"
-disqus_shortname: caarlos0blog
+disqus_shortname: furikurisblog
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 author :
   name : Theo Pack
