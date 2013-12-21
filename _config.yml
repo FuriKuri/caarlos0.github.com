@@ -3,16 +3,13 @@ safe: true
 lsi: false
 pygments: true
 permalink: /posts/:title
-title : Carlos Becker
-production_url : http://carlosbecker.com
-description: "Thougths, tutorials and hacks by Carlos Alexandro Becker."
+title : FuriKuri's Blog
+production_url : https://furikuri.github.io
+description: "My Blog"
 disqus_shortname: caarlos0blog
-# analytics: UA-32899481-1
-gauges: 50f1f940613f5d2cfe000026
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 author :
-  name : Carlos Alexandro Becker
-  github : caarlos0
-  twitter : caarlos0
-  facebook : caarlos0
-  email: caarlos0@gmail.com
+  name : Theo Pack
+  github : FuriKuri
+  twitter : furikuri
+  email: tf.pack@gmail.com
