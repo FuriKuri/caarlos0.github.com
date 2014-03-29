@@ -2,6 +2,7 @@
 layout: post
 title: "Angeguckt: Spring Boot (Groovy)"
 category: posts
+tags: "Groovy"
 ---
 Ich hab mir heute mal das Projekt Spring Boot etwas genauer angeschaut. Spring Boot zielt darauf hinaus, die Entwicklung mit Spring noch weiter zu vereinfachen. Informationen zu Spring Boot gibt es auf der Projekt Seite von [Spring](http://projects.spring.io/spring-boot/).
 In diesem Post werde ich die Groovy-Variante mit Spring Boot vorstellen. Morgen (oder wann später) mache ich das für Java. Dann werde ich ggf. auch näher auf bestimmte Elemente eingehen.
