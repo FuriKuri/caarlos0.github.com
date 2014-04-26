@@ -7,7 +7,6 @@ title : FuriKuri's Blog
 production_url : https://furikuri.github.io
 description: "My Blog"
 disqus_shortname: furikurisblog
-analytics: UA-29303470-1
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 author :
   name : Theo Pack
